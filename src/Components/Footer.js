@@ -12,13 +12,13 @@ function Footer() {
         <Link to="/search">Services</Link>
       </div>
       <div className="footer-social">
-        <a href="https://github.com/Devenkapoor7303" className="social-link">
+        <a href="https://github.com/domain-Q" className="social-link">
           <FaGithub />
         </a>
         <a href="#" className="social-link">
           <FaInstagram />
         </a>
-        <a href="https://www.linkedin.com/in/deven-kapoor-b2b7851b8/" className="social-link">
+        <a href="https://www.linkedin.com/in/thecodevishal/" className="social-link">
           <FaLinkedinIn />
         </a>
       </div>
